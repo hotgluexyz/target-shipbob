@@ -1,0 +1,11 @@
+{
+  "shipment_id": "107815894",
+  "simulation": {
+    "action": "ShipOrder",
+    "delay": 0,
+    "next": {
+      "action": "DeliverOrder",
+      "delay": 0
+    }
+  }
+}

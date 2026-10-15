@@ -1,0 +1,4 @@
+{"type": "SCHEMA", "stream": "Items", "schema": {"type": "object", "properties": {"name": {"type": ["string", "null"]}, "sku": {"type": ["string", "null"]}, "invoice_item": {"type": ["string", "null"]}}}, "key_properties": []}
+{"type": "RECORD", "stream": "Items", "record": {"name": "HG Test Blue T-Shirt M", "sku": "hg-test-blue-tee-m-20261015", "invoice_item": "{\"unitPrice\": 24.99}"}}
+{"type": "RECORD", "stream": "Items", "record": {"name": "HG Test Black Hoodie L", "sku": "hg-test-black-hoodie-l-20261015", "invoice_item": "{\"unitPrice\": 49.99}"}}
+{"type": "STATE", "value": {}}
